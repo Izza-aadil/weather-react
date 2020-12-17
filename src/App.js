@@ -36,7 +36,8 @@ export default function WeatherSearch() {
       <p>
         <a href="https://github.com/Izza-aadil/weather-react">
           Open-source Code
-        </a>
+        </a>{" "}
+        {""}
         by Izza Aadil
       </p>
     </form>
