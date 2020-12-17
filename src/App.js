@@ -32,6 +32,13 @@ export default function WeatherSearch() {
     <form onSubmit={handleSubmit}>
       <input type="search" placeholder="Enter a city.." onChange={updateCity} />
       <button type="Submit">Search</button>
+
+      <p>
+        <a href="https://github.com/Izza-aadil/weather-react">
+          Open-source Code
+        </a>
+        by Izza Aadil
+      </p>
     </form>
   );
 
